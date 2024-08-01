@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Danie Niebuhr 👋
 
-<!--
-**DanieNieb/DanieNieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer and currently in my third and final year of a BSc in Information Technology at North West University. During my gap year, I explored various programming languages such as Java, Python, and HTML, gaining a foundational understanding of each.
 
-Here are some ideas to get you started:
+I'm a passionate programmer with a deep love for creating innovative solutions through code. My journey into the world of programming began with a curiosity for how things work and has since grown into a full-fledged obsession with developing software that makes a difference. Whether it's building applications or exploring new technologies. I thrive on the challenges and continuous learning that programming offers. My ultimate goal is to leverage my skills to create impactful and efficient software that enhances everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java, Python, HTML, C++, C#
+- **Technologies:** Git, GitHub, Visual Studio Code
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/danie-niebuhr-a30b10320/)
+- [Personal Website](https://yourwebsite.com)
+
