@@ -9,5 +9,4 @@ I'm a passionate programmer with a deep love for creating innovative solutions t
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/danie-niebuhr-a30b10320/)
-- [Personal Website](https://yourwebsite.com)
 
